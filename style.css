@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --header:90px
+}
+
+body{
+  background-color: #25b292;
+  font-size: 16px;
+  font-family:"Open Sans", sans-serif;
+}
+
+.contenedor{
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.header{
+  
+}
+
+/* header */
+.header__menu{
+  height: var(--header);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__list{
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  list-style: none;
+}
+/* primera seccion */
+/* segunda seccion */
+/* tercera seccion */
+/* cuarta seccion */
+/* quinta seccion */
+/* sexta seccion */
+/* septima seccion */
+/* octava seccion */
